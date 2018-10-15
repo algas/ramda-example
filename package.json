@@ -1,0 +1,20 @@
+{
+  "name": "ramda-example",
+  "version": "1.0.0",
+  "description": "ramda example",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masahiro Yamauchi",
+  "license": "MIT",
+  "dependencies": {
+    "fantasy-land": "3.5.0",
+    "fluture": "10.1.0",
+    "folktale": "2.3.1",
+    "ramda": "0.25.0",
+    "ramda-fantasy": "0.8.0",
+    "sanctuary": "0.15.0"
+  }
+}
